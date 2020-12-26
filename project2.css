@@ -1,0 +1,46 @@
+#newPost{
+
+    border: 4px dashed rgba(216, 129, 89, 0.5);; 
+    margin: 20px;
+    
+    width: 300px;
+}
+
+#searchform{
+    border: 4px dashed rgba(216, 129, 89, 0.5);; 
+    margin: 20px;
+    
+    width: 250px;
+    height: 150px;
+}
+
+#search{
+    border-radius: 10px;
+    background-color: rgba(216, 129, 89, 0.5);
+    margin-left: 80px;
+}
+
+input{
+    display: block;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+img{
+    height: 250px;
+    width: 200px;
+}
+
+#upload{
+    border-radius: 10px;
+    background-color: rgba(216, 129, 89, 0.5);
+    margin-left: 80px;
+}
+
+label{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    color: rgba(216, 129, 89, 0.5);
+    margin-left: 20px;
+}
